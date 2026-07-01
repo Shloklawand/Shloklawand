@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=250&section=header&text=Shlok%20Lawand&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20GenC%20Intern%20@%20Cognizant&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=250&section=header&text=Shlok%20Lawand&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shlok-lawand-6737b3245"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,10 +20,11 @@
 
 ### 🛠️ Tech Stack & Tools
 
+
 <!-- Modern Unified Skill Icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,flutter,androidstudio,github,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,flutter,androidstudio,postman,github,mysql,NumPy ,Pandas,firebase,docker&perline=6" />
   </a>
 </div>
 
