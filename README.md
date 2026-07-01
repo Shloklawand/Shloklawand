@@ -24,7 +24,7 @@
 <!-- Modern Unified Skill Icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,flutter,androidstudio,postman,github,mysql,numpy,pandas,firebase,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,flutter,androidstudio,postman,github,mysql,firebase,docker&perline=6" />
   </a>
 </div>
 ---
