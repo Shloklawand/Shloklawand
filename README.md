@@ -13,7 +13,7 @@
 
 - 💼 **Current Role:** GenC Intern at **Cognizant**.
 - 🪖 **Past Experience:** App Development Intern at **RoadBounce** (contributed to 10+ apps) & Testing Intern at the **Indian Air Force**.
-- 🎯 **Current Focus:** Deep-diving into **Enterprise Java** and preparing for **GATE (CS)**.
+- 🎯 **Current Focus:** Deep-diving into **Enterprise Java** .
 - ⚡ **Off-screen:** You can find me swimming competitively or playing badminton!
 
 ---
